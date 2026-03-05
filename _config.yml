@@ -2,9 +2,8 @@ remote_theme: jekyll/minima
 title: Samuel Schuler
 description: Skulpturen aus Stein und Beton
 
-show_rss: false
-
 minima:
- social_links:
-  - platform: instagram
-    user_url: https://www.instagram.com/samuelschuler.de
+  show_rss: false
+  social_links:
+    - platform: instagram
+      user_url: https://www.instagram.com/samuelschuler.de
