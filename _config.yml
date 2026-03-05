@@ -2,9 +2,7 @@ remote_theme: jekyll/minima
 title: Samuel Schuler
 description: Skulpturen aus Stein und Beton
 
-# Deaktiviert den RSS-Feed-Button im Footer
-feed:
-  path: false
+show_rss: false
 
 minima:
  social_links:
