@@ -5,7 +5,7 @@ remote_theme: jekyll/minima
 minima:
   social_links:
     - title: Mail
-      icon: envelope
+      icon: square-envelope
       url: "mailto:sam-schuler@web.de"
     - title: Instagram
       icon: instagram
